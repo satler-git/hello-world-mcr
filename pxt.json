@@ -1,5 +1,5 @@
 {
-    "name": "hello-world",
+    "name": "Add icon when run",
     "description": "",
     "dependencies": {
         "core": "*",
